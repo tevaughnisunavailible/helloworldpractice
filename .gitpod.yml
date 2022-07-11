@@ -1,0 +1,2 @@
+from: gitpod/workspace-full
+run: sudo apt-get install cowsay 
